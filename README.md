@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello!!!, I,m Luis LM
+#### Software Developer 🧑‍💻
 
-<!--
-**LuisLM02/LuisLM02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on a Software consultoring as Fullstack Developer working with Angular, Tailwind, TypeScript and Angular Material in the front-end and Golang with Mongo DB in the Backend.
 
-Here are some ideas to get you started:
+#### Hobbies
+* Video Games 🎮 
+* Electronic Music 🎧
+* GYM 🏋️
+* Finances 🏦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Front End Skills 
+HTML , CSS , JavaScript , Tailwind , Bootstrap , Angular , Angular Material 
+
+#### Back End Skills
+Golang , Mongo DB
+
+#### Additional features
+Linux , GitLab , Excel , SQL 
